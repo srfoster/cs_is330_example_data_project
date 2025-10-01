@@ -1,0 +1,140 @@
+2025-09-30 13:37:57,626 - INFO - Chrome driver initialized successfully
+2025-09-30 13:37:57,627 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main
+2025-09-30 13:38:01,808 - INFO - Successfully loaded catalog page
+2025-09-30 13:38:01,865 - INFO - Switched to main iframe
+2025-09-30 13:38:01,999 - ERROR - Could not find course search interface
+2025-09-30 13:38:04,254 - INFO - Driver closed
+2025-09-30 13:38:41,266 - INFO - Chrome driver initialized successfully
+2025-09-30 13:38:41,266 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main
+2025-09-30 13:38:45,036 - INFO - Successfully loaded catalog page
+2025-09-30 13:38:45,116 - INFO - Switched to main iframe
+2025-09-30 13:38:45,255 - ERROR - Could not find course search interface
+2025-09-30 13:38:47,482 - INFO - Driver closed
+2025-09-30 13:46:27,634 - INFO - Chrome driver initialized successfully
+2025-09-30 13:46:27,634 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main
+2025-09-30 13:46:31,757 - INFO - Screenshot saved: 01_page_loaded.png
+2025-09-30 13:46:31,758 - INFO - Successfully loaded catalog page
+2025-09-30 13:46:31,871 - INFO - Switched to main iframe
+2025-09-30 13:46:32,101 - INFO - Screenshot saved: 02_inside_iframe.png
+2025-09-30 13:46:32,235 - ERROR - Could not find course search interface
+2025-09-30 13:46:34,635 - INFO - Driver closed
+2025-09-30 13:49:23,263 - INFO - Chrome driver initialized successfully
+2025-09-30 13:49:23,264 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main
+2025-09-30 13:49:27,231 - INFO - Screenshot saved: 01_page_loaded.png
+2025-09-30 13:49:27,588 - WARNING - Olympic College link not found
+2025-09-30 13:49:27,588 - INFO - Olympic College link not found, continuing with current page
+2025-09-30 13:49:27,589 - INFO - Successfully loaded catalog page
+2025-09-30 13:49:27,631 - INFO - Switched to main iframe
+2025-09-30 13:49:27,766 - INFO - Screenshot saved: 03_inside_iframe.png
+2025-09-30 13:49:27,833 - ERROR - Could not find course search interface
+2025-09-30 13:49:30,098 - INFO - Driver closed
+2025-10-01 13:16:58,252 - INFO - Chrome driver initialized successfully
+2025-10-01 13:16:58,270 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main
+2025-10-01 13:17:04,680 - INFO - Screenshot saved: 01_page_loaded.png
+2025-10-01 13:17:04,680 - INFO - Searching for Olympic College link...
+2025-10-01 13:17:07,703 - INFO - Found 7 total links on page
+2025-10-01 13:17:07,838 - INFO - Link 7: 'Login' -> https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Login?&cmd=uninav&Rnode=LOCAL_NODE&uninavpath=Root{PORTAL_ROOT_OBJECT}.HighPoint{HIGHPOINT}.Campus%20Experience{HPT_CAMPUS_EXPERIENCE}.HighPoint%20Objects{HPT_CX_GENERAL}?cmd=login
+2025-10-01 13:17:07,986 - WARNING - No Olympic College link found on this page
+2025-10-01 13:17:07,987 - INFO - Available link texts (first 20):
+2025-10-01 13:17:08,050 - INFO -   7. 'Login'
+2025-10-01 13:17:08,050 - ERROR - Error searching for Olympic College link: 'CourseScraperCTCLink' object has no attribute 'save_page_source'
+2025-10-01 13:17:08,051 - INFO - Olympic College link not found, continuing with current page
+2025-10-01 13:17:08,051 - INFO - Successfully loaded catalog page
+2025-10-01 13:17:08,051 - INFO - Looking for course search interface...
+2025-10-01 13:17:08,070 - INFO - Found iframe: TargetContent
+2025-10-01 13:17:08,094 - INFO - Switched to main iframe
+2025-10-01 13:17:08,192 - INFO - Screenshot saved: 03_inside_iframe.png
+2025-10-01 13:17:11,196 - INFO - Exploring page content...
+2025-10-01 13:17:11,210 - INFO - Found 0 forms
+2025-10-01 13:17:11,223 - INFO - Found 0 select elements
+2025-10-01 13:17:11,234 - INFO - Found 0 input elements
+2025-10-01 13:17:11,246 - INFO - Found 0 buttons
+2025-10-01 13:17:11,256 - INFO - Found 34 links in iframe
+2025-10-01 13:17:11,278 - INFO -   Link: 'Bates Technical College'
+2025-10-01 13:17:11,288 - INFO -   Link: 'Bellevue College'
+2025-10-01 13:17:11,299 - INFO -   Link: 'Bellingham Technical College'
+2025-10-01 13:17:11,308 - INFO -   Link: 'Big Bend Community College'
+2025-10-01 13:17:11,317 - INFO -   Link: 'Cascadia College'
+2025-10-01 13:17:11,328 - INFO -   Link: 'Centralia College'
+2025-10-01 13:17:11,335 - INFO -   Link: 'Clark College'
+2025-10-01 13:17:11,346 - INFO -   Link: 'Clover Park Technical College'
+2025-10-01 13:17:11,354 - INFO -   Link: 'Columbia Basin College'
+2025-10-01 13:17:11,518 - INFO - Page source length: 35291 characters
+2025-10-01 13:17:11,519 - INFO - Found 'course' 132 times in page source
+2025-10-01 13:17:11,519 - INFO - Found 'class' 107 times in page source
+2025-10-01 13:17:11,519 - INFO - Found 'catalog' 132 times in page source
+2025-10-01 13:17:11,519 - WARNING - No obvious course search interface found
+2025-10-01 13:17:11,520 - ERROR - Could not find course search interface
+2025-10-01 13:17:13,685 - INFO - Driver closed
+2025-10-01 13:19:13,048 - INFO - Chrome driver initialized successfully
+2025-10-01 13:19:13,049 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main
+2025-10-01 13:19:17,109 - INFO - Screenshot saved: 01_page_loaded.png
+2025-10-01 13:19:17,110 - INFO - Searching for Olympic College link...
+2025-10-01 13:19:20,133 - INFO - Found 7 total links on page
+2025-10-01 13:19:20,276 - INFO - Link 7: 'Login' -> https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Login?&cmd=uninav&Rnode=LOCAL_NODE&uninavpath=Root{PORTAL_ROOT_OBJECT}.HighPoint{HIGHPOINT}.Campus%20Experience{HPT_CAMPUS_EXPERIENCE}.HighPoint%20Objects{HPT_CX_GENERAL}?cmd=login
+2025-10-01 13:19:20,437 - WARNING - No Olympic College link found on this page
+2025-10-01 13:19:20,437 - INFO - Available link texts (first 20):
+2025-10-01 13:19:20,510 - INFO -   7. 'Login'
+2025-10-01 13:19:20,511 - ERROR - Error searching for Olympic College link: 'CourseScraperCTCLink' object has no attribute 'save_page_source'
+2025-10-01 13:19:20,511 - INFO - Olympic College link not found, continuing with current page
+2025-10-01 13:19:20,511 - INFO - Successfully loaded catalog page
+2025-10-01 13:19:20,511 - INFO - Looking for course search interface...
+2025-10-01 13:19:20,532 - INFO - Found iframe: TargetContent
+2025-10-01 13:19:20,561 - INFO - Switched to main iframe
+2025-10-01 13:19:20,679 - INFO - Screenshot saved: 03_inside_iframe.png
+2025-10-01 13:19:23,693 - INFO - Exploring page content...
+2025-10-01 13:19:23,707 - INFO - Found 0 forms
+2025-10-01 13:19:23,722 - INFO - Found 0 select elements
+2025-10-01 13:19:23,736 - INFO - Found 0 input elements
+2025-10-01 13:19:23,752 - INFO - Found 0 buttons
+2025-10-01 13:19:23,765 - INFO - Found 34 links in iframe
+2025-10-01 13:19:23,790 - INFO -   Link: 'Bates Technical College'
+2025-10-01 13:19:23,803 - INFO -   Link: 'Bellevue College'
+2025-10-01 13:19:23,815 - INFO -   Link: 'Bellingham Technical College'
+2025-10-01 13:19:23,828 - INFO -   Link: 'Big Bend Community College'
+2025-10-01 13:19:23,841 - INFO -   Link: 'Cascadia College'
+2025-10-01 13:19:23,851 - INFO -   Link: 'Centralia College'
+2025-10-01 13:19:23,861 - INFO -   Link: 'Clark College'
+2025-10-01 13:19:23,875 - INFO -   Link: 'Clover Park Technical College'
+2025-10-01 13:19:23,886 - INFO -   Link: 'Columbia Basin College'
+2025-10-01 13:19:24,097 - INFO - Page source length: 35291 characters
+2025-10-01 13:19:24,098 - INFO - Found 'course' 132 times in page source
+2025-10-01 13:19:24,098 - INFO - Found 'class' 107 times in page source
+2025-10-01 13:19:24,099 - INFO - Found 'catalog' 132 times in page source
+2025-10-01 13:19:24,099 - WARNING - No obvious course search interface found
+2025-10-01 13:19:24,100 - ERROR - Could not find course search interface
+2025-10-01 13:19:26,304 - INFO - Driver closed
+2025-10-01 13:24:51,800 - INFO - Chrome driver initialized successfully
+2025-10-01 13:24:51,801 - INFO - Navigating to: https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main?institution=WA030&PortalActualURL=https%3a%2f%2fcsprd.ctclink.us%2fpsc%2fcsprd%2fEMPLOYEE%2fSA%2fs%2fWEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main&PortalContentURL=https%3a%2f%2fcsprd.ctclink.us%2fpsc%2fcsprd%2fEMPLOYEE%2fSA%2fs%2fWEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main&PortalContentProvider=SA&PortalCRefLabel=Course%20Catalog&PortalRegistryName=EMPLOYEE&PortalServletURI=https%3a%2f%2fcsprd.ctclink.us%2fpsp%2fcsprd%2f&PortalURI=https%3a%2f%2fcsprd.ctclink.us%2fpsc%2fcsprd%2f&PortalHostNode=SA&NoCrumbs=yes
+2025-10-01 13:24:56,173 - INFO - Screenshot saved: 01_page_loaded.png
+2025-10-01 13:24:56,180 - INFO - Already on Olympic College page (direct URL)
+2025-10-01 13:24:56,309 - INFO - Screenshot saved: 02_olympic_college_page.png
+2025-10-01 13:24:56,309 - INFO - Successfully loaded catalog page
+2025-10-01 13:24:56,310 - INFO - Looking for course search interface...
+2025-10-01 13:24:56,331 - INFO - Found iframe: TargetContent
+2025-10-01 13:24:56,356 - INFO - Switched to main iframe
+2025-10-01 13:24:56,489 - INFO - Screenshot saved: 03_inside_iframe.png
+2025-10-01 13:24:59,499 - INFO - Exploring page content...
+2025-10-01 13:24:59,512 - INFO - Found 0 forms
+2025-10-01 13:24:59,524 - INFO - Found 0 select elements
+2025-10-01 13:24:59,537 - INFO - Found 3 input elements
+2025-10-01 13:24:59,555 - INFO - Found 5 buttons
+2025-10-01 13:24:59,594 - INFO - Found 174 links in iframe
+2025-10-01 13:24:59,649 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,670 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,693 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,713 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,728 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,739 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,754 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,765 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,775 - INFO -   Link: 'View Courses'
+2025-10-01 13:24:59,923 - INFO - Found 1 elements with selector: div[class*='search']
+2025-10-01 13:24:59,958 - INFO - Found 1 total course-related elements
+2025-10-01 13:25:00,001 - WARNING - No subjects found, attempting to scrape current page
+2025-10-01 13:25:00,059 - INFO - Found 1 course elements with selector: [id*='course']
+2025-10-01 13:25:00,372 - INFO - Total courses scraped: 1
+2025-10-01 13:25:00,503 - INFO - Screenshot saved: 05_scraping_complete.png
+2025-10-01 13:25:00,510 - INFO - Data saved to: course_catalog_20251001_132500.json
+2025-10-01 13:25:00,526 - INFO - Data saved to: course_catalog_20251001_132500.csv
+2025-10-01 13:25:02,814 - INFO - Driver closed

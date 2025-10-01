@@ -1,0 +1,59 @@
+{
+  "url": "https://csprd.ctclink.us/psp/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main",
+  "status_code": 200,
+  "content_length": 10704,
+  "analysis_time": "2025-09-30T13:34:25.416537",
+  "findings": {
+    "forms": {
+      "count": 0,
+      "samples": []
+    },
+    "iframes": {
+      "count": 1,
+      "samples": [
+        "<iframe frameborder=\"0\" name=\"TargetContent\" title=\"Target Content\" id=\"main_iframe\" src=\"https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main?PortalActualURL=https%3a%2f%2fcsprd.ctclink.us%2fpsc%2fcsprd%2fEMPLOYEE%2fSA%2fs%2fWEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main&amp;PortalContentURL=https%3a%2f%2fcsprd.ctclink.us%2fpsc%2fcsprd%2fEMPLOYEE%2fSA%2fs%2fWEBLIB_HCX_CM.H_COURSE_CATALOG.FieldFormula.IScript_Main&amp;PortalContentProvider=SA&amp;PortalCRefLabel=Course%20Catalog&amp;PortalRegistryName=EMPLOYEE&amp;PortalServletURI=https%3a%2f%2fcsprd.ctclink.us%2fpsp%2fcsprd%2f&amp;PortalURI=https%3a%2f%2fcsprd.ctclink.us%2fpsc%2fcsprd%2f&amp;PortalHostNode=SA&amp;NoCrumbs=yes\">"
+      ]
+    },
+    "scripts": {
+      "count": 9,
+      "samples": [
+        "<script type=\"text/javascript\">",
+        "<script type=\"text/javascript\" language='JavaScript'>",
+        "<script type=\"text/javascript\">"
+      ]
+    },
+    "select_elements": {
+      "count": 0,
+      "samples": []
+    },
+    "links": {
+      "count": 1,
+      "samples": [
+        "<a id=\"ancdobackclassic\" href=\"javascript:parent.DoBack('win0')\" class=\"d-none hidden\" hidden=\"\" aria-hidden=\"true\">"
+      ]
+    },
+    "course_mentions": {
+      "count": 31,
+      "samples": [
+        "class",
+        "Course",
+        "Catalog"
+      ]
+    },
+    "search_elements": {
+      "count": 9,
+      "samples": [
+        "SEARCH",
+        "Search",
+        "SEARCH"
+      ]
+    }
+  },
+  "frameworks": {
+    "CTCLink": true
+  },
+  "form_actions": [],
+  "potential_apis": [
+    "/api/graphql"
+  ]
+}
